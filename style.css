@@ -3,18 +3,20 @@ body{
 }
 
 .barcelona{
-    background-color:;
+    background-color: rgb(180, 183, 223);
 }
 
 .realmadri{
-    background-color:;
+    background-color: antiquewhite;
 }
 
 .flamengo{
-    background-color:;
+    background-color: red;
 }
 
-
+.corinthias{
+    background-color: rgb(65, 66, 73);
+}
 
 img{
     width: 600px;
